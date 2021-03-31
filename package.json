@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeryibarra/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Valery <valeryibarra2@gmail.com> (valeryibarra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Valeryibarra/cypress-training/issues"
+  },
+  "homepage": "https://github.com/Valeryibarra/cypress-training#readme"
+}
